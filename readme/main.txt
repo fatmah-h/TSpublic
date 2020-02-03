@@ -1,0 +1,76 @@
+<div class="row">
+  <!-- SIDE MENU -->
+  <div class="sideMenu col-md-1 col-sm-3">
+    <!-- LOGO -->
+    <img src="assets/images/logo.svg" class="mx-auto d-block logo" alt="logo">
+
+    <nav>
+      <!-- d-inline-block -->
+      <ul class="sm sm-clean list-group flex-column first-menu">
+        <li class="first-menu-item active">
+          <a href="#">
+            <img src="assets/images/apps.svg" class="rounded mx-auto d-block" alt="...">
+          </a>
+        </li>
+        <li class="first-menu-item"><a href="#"><i class="fa fa-user"></i></a>
+        </li>
+        <li class="first-menu-item"><a href="#"><i class="fa fa-book"></i></a>
+          <ul class="list-group flex-column d-inline-block submenu">
+            <li class="title">
+              <h3>«·Œœ„«  «· œ—Ì»Ì…</h3>
+            </li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>ÃœÊ·Ì</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>€Ì«»« Ì</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>‰ «∆ÃÌ</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>»—«„ÃÌ</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>«· œ—Ì» «·⁄„·Ì</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>«·√‰‘ÿ… «·«„‰ÂÃÌ…</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i> ﬁÌÌ„ «·»—«„Ã</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>«·ﬂ«œ— «· œ—Ì»Ì</a></li>
+
+          </ul>
+        </li>
+        <li class="first-menu-item"><a href="#"> <i class="fa fa-graduation-cap"></i></a>
+          <ul class="list-group flex-column d-inline-block submenu">
+            <li class="title">
+              <h3>«·Œœ„«  «·⁄«„…</h3>
+            </li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>«·„ﬂ »… «·—ﬁ„Ì…</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>«·«” ⁄«—… „‰ «·„ﬂ »…</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>Œÿ«» «· ⁄—Ì›</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i> Œ›Ì÷ «·ﬁÿ«—</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>«·«” „«—… «·’ÕÌ…</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>≈Œ·«¡ ÿ—›</a></li>
+          </ul>
+        </li>
+
+        <li class="first-menu-item"><a href="#"> <i class="fa fa-info-circle"></i></a>
+          <ul class="list-group flex-column d-inline-block submenu">
+            <li class="title">
+              <h3>«·Œœ„«  «·„”«⁄œ…</h3>
+            </li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>œ·Ì· «·„” Œœ„</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>œ·Ì· «·œ«—”</a></li>
+            <li class="list"><a href="#"><i class="fa fa-book"></i>«·œ⁄„ «·›‰Ì</a></li>
+          </ul>
+        </li>
+
+
+      </ul>
+    </nav>
+
+  </div>
+
+
+  <!-- CONTENT -->
+  <div class="col-11 content">
+    Second, but last
+  </div>
+
+</div>
+<!-- footer -->
+<footer class="page-footer font-small blue">
+  <div class="footer-copyright text-center py-1"> Ã„Ì⁄ «·ÕﬁÊﬁ „Õ›ÊŸ…©:
+    <a href="https://www.ipa.edu.sa/ar-sa/Pages/default.aspx" target="_blank"> „⁄Âœ «·≈œ«—… «·⁄«„…</a>
+  </div>
+</footer>
